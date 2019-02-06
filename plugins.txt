@@ -1,0 +1,13 @@
+zsh-users/zsh-completions
+zsh-users/zsh-autosuggestions
+zsh-users/zsh-syntax-highlighting
+
+mafredri/zsh-async
+sindresorhus/pure
+
+marzocchi/zsh-notify
+
+vintersnow/anyframe
+b4b4r07/enhancd
+lukechilds/zsh-nvm
+greymd/tmux-xpanes
