@@ -1,6 +1,7 @@
-# Compare Zsh plugin managers
+# Comparing Zsh plugin managers
 
 ## Requirements
+
 - [hyperfine](https://github.com/sharkdp/hyperfine)
 
 ## Plugin Managers
@@ -11,7 +12,7 @@
 - [zplugin](https://github.com/zdharma/zplugin)
 - [zr](https://github.com/jedahan/zr)
 
-## Run
+## How to measure
 
 ```
 ./startuptime.zsh zplugin.zsh

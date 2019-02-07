@@ -6,6 +6,7 @@ autoload -Uz _zplugin
 (( ${+_comps} )) && _comps[zplugin]=_zplugin
 ### End of Zplugin's installer chunk
 
+zplugin ice wait"0" blockf
 zplugin light "zsh-users/zsh-completions"
 
 zplugin ice wait"!0" atload"_zsh_autosuggest_start"
